@@ -1,2 +1,2 @@
-# Contact-Form
+# Form
 html-form-to-google-sheet
